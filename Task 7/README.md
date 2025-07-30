@@ -21,7 +21,7 @@ Detailed view of a volunteer opportunity with all relevant information.
 ## Installation  
 Clone the repository:  
 ```bash  
-git clone https://github.com/Ludis-et/project-phase.git  
+git clone https://github.com/libengebremedhin/A2sv-project-phase-tasks.git  
 cd 'task 7'  
 ```  
 Install dependencies:  
