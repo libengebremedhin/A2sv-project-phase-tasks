@@ -51,7 +51,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Ludis-et/Project-Phase.git
+git clone https://github.com/libengebremedhin/A2sv-project-phase-tasks.git
 cd 'Task 5'
 ```
 
